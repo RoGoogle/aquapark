@@ -36,7 +36,7 @@
 }
 
 .webgl-content .progress .empty {
-  background: url('/y8-studio/config/shared
+  background: url('y8-studio/config/shared
 /gamebreak/skip.png') no-repeat right / cover;
   float: right;
   width: 100%;
@@ -64,7 +64,7 @@
 }
 
 .webgl-content .logo.Dark {
-  background-image: url('/y8-studio/config/shared
+  background-image: url('y8-studio/config/shared
 /gamebreak/skip.png');
   margin: 0 auto;
   background-size: contain;
@@ -109,7 +109,7 @@
 }
 
 .webgl-content .footer .fullscreen {
-  background-image: url('/y8-studio/config/shared
+  background-image: url('y8-studio/config/shared
 /gamebreak/skip.png');
   width: 38px;
   float: right;
